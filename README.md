@@ -9,7 +9,7 @@ Features
 ✔ Start, pause, and resume the stopwatch
 ✔ Reset the timer to 00:00:00
 ✔ Smooth animations and modern UI
-✔ Built using only HTML, CSS, and JavaScript (no frameworks)
+
 
 Technologies Used
 
